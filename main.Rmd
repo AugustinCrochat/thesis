@@ -104,7 +104,7 @@ no more than 250 words for the abstract
 
 \newpage
 
-```{r methods, child = 'methods.Rmd'}
+```{r methods, child = 'literature_review.Rmd'}
 ```
 
 \newpage
