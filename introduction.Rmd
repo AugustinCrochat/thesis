@@ -9,3 +9,5 @@ header-includes:
 # Introduction
 
 This is an introduction to the thesis.
+
+\citep{m_s_determinants_2019}

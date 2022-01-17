@@ -48,7 +48,7 @@ knitr::include_graphics("img/kedge_business_school_logo.png")
 \Large
 
 \doublespacing
-{\bf EVALUATING IF EXTERNAL CSR COMMUNICATION FROM COMPANIES THAT ARE PERCEIVED AS POLLUTERS IS ADVANTAGEOUS TO THEM}
+{\bf EVALUATING IF EXTERNAL ENVIRONMENTAL CSR COMMUNICATION FROM COMPANIES THAT ARE PERCEIVED AS POLLUTERS IS ADVANTAGEOUS TO THEM}
 
 \vspace{1 cm}
 
@@ -76,15 +76,7 @@ By
 
 \spacing{1.5}
 
-(the spacing is set to 1.5)
-
-no more than 250 words for the abstract
-
-- a description of the research question/knowledge gap – what we know and what we don’t know
-- how your research has attempted to fill this gap
-- a brief description of the methods
-- brief results
-- key conclusions that put the research into a larger context
+Abstract
 
 \pagenumbering{roman}
 
@@ -104,12 +96,7 @@ no more than 250 words for the abstract
 
 \newpage
 
-```{r methods, child = 'literature_review.Rmd'}
-```
-
-\newpage
-
-```{r results, child = 'results.Rmd'}
+```{r literature_review, child = 'literature_review.Rmd'}
 ```
 
 \newpage
