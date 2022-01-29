@@ -8,6 +8,8 @@ header-includes:
 
 # Introduction
 
-This is an introduction to the thesis.
+Corporate Sociale Responsibility referred to as CSR from now onwards, is a wide term that encompasses many activities and actions taken by businesses. I will focus mainly on the environmental side of CSR. This means the impact business activities have on green house gas emissions and environmental pollution globally. Here again, I will focus mainly on the green house gas emission aspect, as it is tightly linked to climate change.
 
-\citep{m_s_determinants_2019}
+As consumers become more knowledgeable about the world and the impact economic activity has on it, companies have increasingly come under scrutiny for acting in ways that are _perceived_ as non-virtuous. Making the distinction between acting virtuously and being perceived as so it crucial, as it will determine de degree of success of a CSR campaign. CSR is at it's core primarily a communication tool, it can be leveraged to improved the business' image when it is perceived negatively, or to strengthen an already good one. This means that CSR's primary objective is to change the perception of consumers towards a company's involvement in societal issues. It is widely accepted that CSR activities will no solve structural changes, especially when it comes to climate change. Here Ikea's CEO, Jesper Brodin, on an interview with Bloomberg alludes to that "I'm of the strong opinion that greenwashing is less dangerous than silence. We need to bring hope to people, we need to be accountable for actions we take and we need to tell people what we've done." 
+Coming back to perception, given CSR's raison d'être is to send a particular message to consumers, companies should evaluate their current image perception regarding societal issues and determine if it's worth investing to improve it. Furthermore, businesses should be careful not to follow the wrong steps and end up degrading their image even further. Shareholders might demand CSR actions to be taken when perception is negative, and as intuitive as this may seem, it is not always the right course of action.
+

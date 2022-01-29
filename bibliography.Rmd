@@ -3,5 +3,25 @@ title: ''
 output: pdf_document
 ---
 
-\bibliography{bibliography}
+# Bibliography
+
+M. S., M. (2019). Determinants of Brand Equity: Communication of Corporate Social Responsibility (CSR) versus CSR itself and Company Credibility. Contemporary Economics, 13(3), 317–334.
+
+Yoon, Y., Gürhan-Canli, Z., & Schwarz, N. (2006). The Effect of Corporate Social Responsibility (CSR) Activities on Companies With Bad Reputations. Journal of Consumer Psychology, 16(4), 377–390. https://doi.org/10.1207/s15327663jcp1604_9
+
+Miller, S., & Berry, L. (1998). Brand Salience versus Brand Image: Two Theories of Advertising Effectiveness. Journal of Advertising Research, 38(5), 77–82.
+
+Song, B., Wen, J., & Ferguson, M. A. (2020). Toward effective CSR communication in controversial industry sectors. Journal of Marketing Communications, 26(3), 243–267. https://doi.org/10.1080/13527266.2018.1536887
+
+Biekert, M. (2021). Ikea CEO Says Greenwashing Less Dangerous Than Silence on Climate. Bloomberg.Com, N.PAG-N.PAG.
+
+Bhattacharya, C. B., Tonello, M., Sen, S., & Du, S. (2011, April 26). What Board Members Should Know About Communicating Corporate Social Responsibility. The Harvard Law School Forum on Corporate Governance. https://corpgov.law.harvard.edu/2011/04/26/what-board-members-should-know-about-communicating-corporate-social-responsibility/
+
+Araujo-Morera, J., Verdejo, R., López-Manchado, M. A., & Hernández Santana, M. (2021). Sustainable mobility: The route of tires through the circular economy model. Waste Management, 126, 309–322. https://doi.org/10.1016/j.wasman.2021.03.025
+
+Bhattacharya, C. B., Tonello, M., Sen, S., & Du, S. (2011, April 26). What Board Members Should Know About Communicating Corporate Social Responsibility. The Harvard Law School Forum on Corporate Governance. https://corpgov.law.harvard.edu/2011/04/26/what-board-members-should-know-about-communicating-corporate-social-responsibility/
+
+Hemonnet-Goujot, A., Kessous, A., & Magnoni, F. (2022). The effect of sustainable product innovation on the consumer–luxury brand relationship: The role of past identity salience. Journal of Business Research, 139, 1513–1524. https://doi.org/10.1016/j.jbusres.2021.10.070
+
+Araujo-Morera, J., Verdejo, R., López-Manchado, M. A., & Hernández Santana, M. (2021). Sustainable mobility: The route of tires through the circular economy model. Waste Management, 126, 309–322. https://doi.org/10.1016/j.wasman.2021.03.025
 

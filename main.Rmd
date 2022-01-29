@@ -3,7 +3,7 @@ title: " "
 output:
   pdf_document:
     number_sections: TRUE
-geometry: "left = 2.5cm, right = 2cm, top = 2cm, bottom = 2cm"
+geometry: "left = 2.5cm, right = 2.5cm, top = 2cm, bottom = 2cm"
 fontsize: 12pt
 header-includes:
   - \usepackage{float}
@@ -13,7 +13,7 @@ header-includes:
   - \usepackage{fancyhdr}
   - \usepackage{lastpage}
   - \usepackage{dcolumn}
-  - \usepackage{natbib}\bibliographystyle{agsm}
+  - \usepackage{natbib}\bibliographystyle{apa}
   - \usepackage[nottoc, numbib]{tocbibind}
 bibliography: bibliography.bib
 ---
@@ -64,6 +64,8 @@ By
 
 \end{centering}
 
+<!-- abstract goes here
+
 \newpage
 
 \pagenumbering{gobble}
@@ -76,7 +78,7 @@ By
 
 \spacing{1.5}
 
-Abstract
+--> 
 
 \pagenumbering{roman}
 
